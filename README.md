@@ -20,5 +20,5 @@
 - In the past 7 years i worked for several tech companies as a fullstack and frontend developer.
 - I'm always working on something new and exiting while trying to focuse on web development, UX, performance and architecture of client apps.
 - Fun fact: I love creating POCs just to prove that what i imagin can be done.
-- How to reach me: <a href="mailto:talwaserman@gmail.com>talwaserman@gmail.com</a>
+- How to reach me: talwaserman@gmail.com
 
