@@ -15,7 +15,7 @@
 -->
 
 
-- I'm a Teach Lead FrontEnd developer, working at eBay.
+- I'm a Teach Lead FrontEnd developer, with current passion for blockchain technology
 - currently interested in blockchain technology
 - What i like most about eBay is the sense of scale and knowing that we help people.
 - In the past 8 years i worked for several tech companies as a fullstack and frontend developer.
